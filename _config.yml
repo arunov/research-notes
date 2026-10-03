@@ -1,0 +1,5 @@
+title: Arun's Research Notes
+description: Key concepts from CS research papers, one paper at a time.
+theme: minima
+plugins:
+  - jekyll-feed
